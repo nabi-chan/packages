@@ -1,8 +1,0 @@
-{
-  "extends": ["@turborepo-template/tsconfig"],
-  "compilerOptions": {
-    "jsx": "react-jsx",
-    "types": ["vite/client"]
-  },
-  "include": ["src"]
-}
